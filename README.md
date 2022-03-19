@@ -66,6 +66,7 @@ ___
 After analyzing the results of trips in August on CitiBikes in New York City, a few clear patterns emerged. The majority of users tend to use the bikes for a very short time - just a matter of minutes. Subscribers made up the bulk of the 2.3M trips. Peak times tend to be during commute times in the morning and evening, especially for subscribers. CitiBikes are used most often by men.
 
 _Future Analysis_
+
 To improve the analysis before deciding to create a rideshare program in Iowa, I would recommend doing a few more visualizations on the current dataset:
 
 1) We looked at trip duration for all users and by gender, but I would recommend expanding the analysis to add a filter for user type. This would help answer if subscribers or customers tend to use the bikes for a longer trip duration.
